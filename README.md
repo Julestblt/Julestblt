@@ -30,3 +30,7 @@
 ![cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+### My portfolio
+---
+Make sure to check my <a href="https://julesthibault.fr">portfolio</a> 😉
