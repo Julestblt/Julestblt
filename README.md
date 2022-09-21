@@ -3,7 +3,7 @@
 ---
 <a href="https://www.linkedin.com/in/julestblt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## I am a student in web development at Epitech
+## I am a student in Cybersecurity at Ecole 2600
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julestblt&layout=compact)
 
