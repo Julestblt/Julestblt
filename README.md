@@ -11,7 +11,3 @@
 <a href="https://tryhackme.com/p/JuleZ">TryHackMe</a>
 
 <a href="https://www.linkedin.com/in/julestblt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-### My portfolio
----
-Make sure to check my <a href="https://julesthibault.fr">portfolio</a> 😉
