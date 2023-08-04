@@ -1,4 +1,4 @@
-## I am a student in Cybersecurity at <a href="https://ecole2600.com/">Ecole 2600</a> 🏴‍☠️
+# I am a student in Cybersecurity at <a href="https://ecole2600.com/">Ecole 2600</a> 🏴‍☠️
 
 <img src="http://www.hackthebox.eu/badge/image/1073772" alt="Hack The Box">
 
@@ -11,3 +11,11 @@
 <a href="https://tryhackme.com/p/JuleZ">TryHackMe</a>
 
 <a href="https://www.linkedin.com/in/julestblt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+
+## My Websites
+
+<a href="https://julez.cat">Portfolio</a>
+
+<a href="https://dork.julez.cat">Google Dork Generator</a>
